@@ -1,1 +1,2 @@
-# Fix-my-code-0
+#!/usr/bin/bash
+Code challenge and Fixing
